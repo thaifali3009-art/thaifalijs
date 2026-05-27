@@ -27,7 +27,7 @@ console.log(data)
 //Arrow function
 //syntax  nameof varaiabledeclare varaibalename=() =>{};
 
-var username=()=>'vasantha'+'lakshmi';
+var username=()=>'thaif'+'ali';
 console.log(username())
 
  //noraml function 
