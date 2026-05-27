@@ -25,7 +25,7 @@ users.push('name4');
 console.log(users, '== after push');
 
 //2.unshift:- used to add items at the first of the array
-users.unshift('vassu');
+users.unshift('thaif');
 console.log(users, '== after unshift');
 
 //3.pop:- it is used to remove items from the end of the array
